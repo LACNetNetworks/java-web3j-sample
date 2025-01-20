@@ -37,7 +37,7 @@ public class Main {
             Web3j web3 = Web3j.build(new HttpService("http://{{YOUR_NODE_IP}}"));
 
             // Load credentials from the private key
-            Credentials credentials = Credentials.create("a0a2af404337c096113bc2c180df7a6636a88f8eb5da6160817f9315aaafee80");
+            Credentials credentials = Credentials.create("{{YOUR_PRIVATE_KEY}}");
 
             // Contract address to interact with
             String contractAddress = "{{YOUR_CONTRACT_ADDRESS}}";
