@@ -21,8 +21,8 @@ This Java program interacts with an LACNet Ethereum-based blockchain network usi
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repository.git
-   cd your-repository
+   git clone git@github.com:LACNetNetworks/java-web3j-sample.git
+   cd java-web3j-sample
    ```
 2. Add dependencies to your project:
    ```xml
