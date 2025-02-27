@@ -1,7 +1,7 @@
 # README
 
 ## Overview
-This Java program interacts with an Ethereum-based private blockchain network using Web3j. It connects to the network, creates and signs a transaction, and sends it to a smart contract. Additionally, it verifies the transaction's success and decodes any potential revert reasons.
+This Java program interacts with an LACNet Ethereum-based blockchain network using Web3j. It connects to the network, creates and signs a transaction, and sends it to a smart contract. Additionally, it verifies the transaction's success and decodes any potential revert reasons.
 
 ## Features
 - Connects to a private Ethereum network via Web3j.
